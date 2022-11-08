@@ -1,2 +1,2 @@
 # .github
-The network behind the best proxy, bypass, and alternative tools.
+Repository for github profile
