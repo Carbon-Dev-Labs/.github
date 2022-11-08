@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Carbon-Dev-Network">
-    <img alt="Carbon" src="https://raw.githubusercontent.com/Carbon-Dev-Network/.github/main/CarbonLogo.png" width="100" />
+    <img alt="Carbon" src="https://raw.githubusercontent.com/Carbon-Dev-Network/.github/main/CarbonLogo.png" width="80" />
   </a>
 </p>
 <h1 align="center">
