@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Carbon-Dev-Network">
+  <a href="https://carbondev.netlify.app/">
     <img alt="Carbon" src="https://raw.githubusercontent.com/Carbon-Dev-Network/.github/main/CarbonLogo.png" width="80" />
   </a>
 </p>
@@ -8,9 +8,9 @@
 </h1>
 
 <h4 align="center">
-  <a href="https://github.com/Carbon-Dev-Network">Website</a> |
-  <a href="https://github.com/Carbon-Dev-Network">Tools</a> |
-  <a href="https://github.com/Carbon-Dev-Network">Community</a>
+  <a href="https://carbondev.netlify.app/">Website</a> |
+  <a href="https://carbondev.netlify.app/#tools">Tools</a> |
+  <a href="https://carbondev.netlify.app/#community">Community</a>
 </h4>
 
 <p align="center">
