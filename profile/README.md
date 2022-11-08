@@ -14,5 +14,8 @@
 </h4>
 
 <p align="center">
-The network behind the best proxy, bypass, and alternative tools.
+Powering the tools of the trade.
 </p>
+
+## What is Carbon?
+Carbon is the group/community that creates your favorite tools.
