@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://carbondev.netlify.app/">
-    <img alt="Carbon" src="https://raw.githubusercontent.com/Carbon-Dev-Network/.github/main/CarbonLogo.png" width="80" />
+    <img alt="Carbon" src="https://raw.githubusercontent.com/Carbon-Dev-Network/.github/main/CarbonLogoBanner.png" width="80" />
   </a>
 </p>
 <h1 align="center">
