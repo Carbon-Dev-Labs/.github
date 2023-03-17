@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Carbon Network
+  Carbon Development Labs
 </h1>
 
 <h4 align="center">
