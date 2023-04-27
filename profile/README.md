@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://carbondev.netlify.app/">
-    <img alt="Carbon" src="https://raw.githubusercontent.com/Carbon-Dev-Network/.github/main/CarbonLogoBanner.png" width="300" />
-  </a>
-</p>
 <h1 align="center">
   Carbon Development Labs
 </h1>
