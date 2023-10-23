@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://parsvel.com">
+    <img alt="Carbon" src="https://avatars.githubusercontent.com/u/95453672?s=200&v=4" width="100" />
+  </a>
+</p>
 <h1 align="center">
   Parsvel Labs
 </h1>
